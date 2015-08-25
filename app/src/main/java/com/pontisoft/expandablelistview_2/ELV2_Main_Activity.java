@@ -64,6 +64,9 @@ public class ELV2_Main_Activity extends AppCompatActivity {
         ordermaplist.add(makeOrder(2, "Club Mate", 5.00, "15", true));
         childobjlist = new ArrayList<HashMap<String, Object>>();
         childlist.add(childobjlist);
+        ordermaplist.add(makeOrder(2, "Club Mate IceT", 5.00, "16", true));
+        childobjlist = new ArrayList<HashMap<String, Object>>();
+        childlist.add(childobjlist);
 
     }
 
